@@ -33,17 +33,19 @@ Este operador no solo trabaja con <i>nullable types</i> sino también con tipos 
 Console.WriteLine("Measure Unit: {0}",invoice.MeasureUnit ?? "NONE");
 </pre>
 <p>
-
+Aqui el programa en ejecuccion.
 </p>
 <div>
 <img src="images/fig1.png"/>
 </div>
 <p>
+Agregando un item a la coleccion.
 </p>
 <div>
 <img src="images/fig2.png"/>
 </div>
 <p>
+Mostrando todas las facturas de la coleccion.
 </p>
 <div>
 <img src="images/fig3.png"/>
