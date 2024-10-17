@@ -32,5 +32,22 @@ Este operador no solo trabaja con <i>nullable types</i> sino también con tipos 
 <pre>
 Console.WriteLine("Measure Unit: {0}",invoice.MeasureUnit ?? "NONE");
 </pre>
-<p>Los <i>nullable types</i> en realidad corresponden a una estructura genérica del CLR llamada <b>System.Nullable</b>
+<p>
+
+</p>
+<div>
+<img src="images/fig1.png"/>
+</div>
+<p>
+</p>
+<div>
+<img src="images/fig2.png"/>
+</div>
+<p>
+</p>
+<div>
+<img src="images/fig3.png"/>
+</div>
+<p align="justify">
+Los <i>nullable types</i> en realidad corresponden a una estructura genérica del CLR llamada <b>System.Nullable</b>
 </p>
